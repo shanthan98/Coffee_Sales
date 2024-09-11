@@ -32,4 +32,6 @@ The dashboard visualizes the following key metrics:
 ## Technologies Used
 - **Excel**: For initial data exploration and formatting, Pivot Tables, Functions, Visualizations
 
+![Final Dashboard](assets/Images/dashboard.png)
+
 
